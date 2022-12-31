@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<parameter name="url" value="https://www.w3schools.com/html/html_tables.asp"/>
+<parameter name="browser" value="firefox"/>
+
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.Excel_Read_1.CompareXLSX_WebTable2"/>
+     <!-- <class name="com.Excel_Read_1.Excel_Read_1_1"/>
+      <class name="com.Excel_Read_1.Excel_HSSF_XLS"/>
+      <class name="com.Excel_Read_1.Test2"/>
+      <class name="com.Excel_Read_1.Test1"/>
+      <class name="com.Excel_Read_1.Test4"/>
+      <class name="com.Excel_Read_1.Sample"/>
+      <class name="com.Excel_Read_1.Test3"/>
+      <class name="com.Excel_Read_1.ReadExcel"/>
+      <class name="com.Excel_Read_1.Test5"/>-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

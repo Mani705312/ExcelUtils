@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-26T12:40:41 IST" name="Default suite" finished-at="2022-12-26T12:40:41 IST" duration-ms="649">
+    <groups>
+    </groups>
+    <test started-at="2022-12-26T12:40:41 IST" name="Default test" finished-at="2022-12-26T12:40:41 IST" duration-ms="649">
+      <class name="com.Excel_Read_1.ACATS_Excel_Read_1_1">
+        <test-method signature="getValues(java.util.List)[pri:1, instance:com.Excel_Read_1.ACATS_Excel_Read_1_1@7f0eb4b4]" started-at="2022-12-26T12:40:41 IST" name="getValues" data-provider="TestCase" finished-at="2022-12-26T12:40:41 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[{UserID=Mani, TESTCASE_ID=TC_1, Password=123}, {UserID=Selvam, TESTCASE_ID=TC_2, Password=12345}, {UserID=Lakshmi, TESTCASE_ID=TC_3, Password=1234}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValues -->
+        <test-method signature="getValues_Sheet2(java.util.List)[pri:2, instance:com.Excel_Read_1.ACATS_Excel_Read_1_1@7f0eb4b4]" started-at="2022-12-26T12:40:41 IST" name="getValues_Sheet2" data-provider="TestCase_Sheet2" finished-at="2022-12-26T12:40:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[{User 5=O, User 1=K, User 2=L, User 3=M, TESTCASE_ID=TC_1, User 4=N}, {User 5=T, User 1=P, User 2=Q, User 3=R, TESTCASE_ID=TC_2, User 4=S}, {User 5=E, User 1=A, User 2=B, User 3=C, TESTCASE_ID=TC_3, User 4=D}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValues_Sheet2 -->
+      </class> <!-- com.Excel_Read_1.ACATS_Excel_Read_1_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

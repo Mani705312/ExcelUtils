@@ -1,0 +1,40 @@
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Driver Initialized
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -URL Opened
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -WebTable values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Table Data printed into the console
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Loading Excel
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel Data printed into the console
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel Data vs Table Data comparison
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is similar-successful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is similar-successful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is similar-successful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is similar-successful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is similar-successful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is similar-successful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -DriverTearDown
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Driver Initialized
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -URL Opened
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -WebTable values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Table Data printed into the console
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Loading Excel
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel values are printed into linked Hashmap and list
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel Data printed into the console
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Excel Data vs Table Data comparison
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is not similar-unsuccessful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is not similar-unsuccessful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is not similar-unsuccessful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is not similar-unsuccessful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is not similar-unsuccessful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -Data is not similar-unsuccessful
+main INFO  com.Excel_Read_1.CompareXLSX_WebTable2  -DriverTearDown
